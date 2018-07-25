@@ -1,13 +1,28 @@
-.bg-blue {
-    background: #3079AB;
-    color: white;
+/* *{
+    outline: 1px solid red;
+} */
+
+p {
+    text-align: center;
 }
 
-.card-white {
-    background: white;
-    padding: 30px;
-    box-shadow: 1px 1px 2px #e7e7e7;
-    border-radius: 4px;
-    margin: 20px 50px;
+.blue {
+    background-color: #307aab;
+}
+
+.darkwhite {
+    background-color: #eeeff1;
+}
+
+.white {
+    background-color: #ffffff;
+}
+
+.center {
+    margin: auto;
+}
+
+.row {
+    padding: 1rem;
 }
 
